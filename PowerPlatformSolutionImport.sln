@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30011.19
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerPlatformSolutionImport", "PowerPlatformSolutionImport\PowerPlatformSolutionImport.csproj", "{0B9FD337-A69F-4D4B-B82E-31AEE4E6B7F2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerPlatformSolutionImport-ConsoleApp", "PowerPlatformSolutionImport-ConsoleApp\PowerPlatformSolutionImport-ConsoleApp.csproj", "{9E410F03-5319-4C27-B3BD-D8A1117B3735}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{0B9FD337-A69F-4D4B-B82E-31AEE4E6B7F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B9FD337-A69F-4D4B-B82E-31AEE4E6B7F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B9FD337-A69F-4D4B-B82E-31AEE4E6B7F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E410F03-5319-4C27-B3BD-D8A1117B3735}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E410F03-5319-4C27-B3BD-D8A1117B3735}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E410F03-5319-4C27-B3BD-D8A1117B3735}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E410F03-5319-4C27-B3BD-D8A1117B3735}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
